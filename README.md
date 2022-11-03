@@ -1,0 +1,1 @@
+# ft24cxxa-eeprom
