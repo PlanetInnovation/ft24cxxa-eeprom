@@ -1,6 +1,6 @@
 {
     "urls": [
-        ["micropython_ft24cxxa.py", "github:planetinnovation/micropython-ft24cxxa/micropython_ft24cxxa.py"]
+        ["micropython_ft24cxxa.py", "github:planetinnovation/ft24cxxa-eeprom/micropython_ft24cxxa.py"]
     ],
     "version": "1.0.0"
 }
